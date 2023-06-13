@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to create a custom pager for the ASPxGridView with the "Selecting a page size" feature
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1738/)**
+**[[Run Online]](https://codecentral.devexpress.com/128538600/)**
 <!-- run online end -->
 
 
