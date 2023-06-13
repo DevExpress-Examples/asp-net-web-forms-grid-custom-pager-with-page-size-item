@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to create a custom pager and display a page size item
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1738/)**
+**[[Run Online]](https://codecentral.devexpress.com/128538600/)**
 <!-- run online end -->
 
 This example demonstrates how to create a pager template and add editors to the template to implement a custom [pager](https://docs.devexpress.com/AspNet/3676/components/grid-view/visual-elements/pager). The template also contains a combo box editor that emulates a page size item.
