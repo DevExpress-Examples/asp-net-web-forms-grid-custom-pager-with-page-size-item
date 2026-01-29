@@ -72,7 +72,7 @@ Partial Public Class _Default
 		Dim grid As ASPxGridView = TryCast(sender, ASPxGridView)
 
 		If Session("GridCurrentPageSize") IsNot Nothing Then
-			grid.SettingsPager.PageSize = CInt(Math.Truncate(Session("GridCurrentPageSize")))
+			grid.SettingsPager.PageSize = DirectCast(Session("GridCurrentPageSize"), Integer)
 		Else
 			Session("GridCurrentPageSize") = grid.SettingsPager.PageSize
 		End If
